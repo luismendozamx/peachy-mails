@@ -1,0 +1,10 @@
+{
+  "name": "peachy-mail",
+  "version": "1.0.0",
+  "description": "Email templates for bepeachy.com",
+  "devDependencies": {
+    "del": "^1.1.1",
+    "gulp": "^3.8.11",
+    "gulp-inline-css": "^2.0.0"
+  }
+}
